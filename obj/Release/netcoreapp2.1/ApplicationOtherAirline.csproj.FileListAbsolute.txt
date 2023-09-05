@@ -1,0 +1,16 @@
+D:\EnViet\SourceAzure\ApplicationOtherAirline\bin\Release\netcoreapp2.1\ApplicationOtherAirline.deps.json
+D:\EnViet\SourceAzure\ApplicationOtherAirline\bin\Release\netcoreapp2.1\ApplicationOtherAirline.runtimeconfig.json
+D:\EnViet\SourceAzure\ApplicationOtherAirline\bin\Release\netcoreapp2.1\ApplicationOtherAirline.runtimeconfig.dev.json
+D:\EnViet\SourceAzure\ApplicationOtherAirline\bin\Release\netcoreapp2.1\ApplicationOtherAirline.dll
+D:\EnViet\SourceAzure\ApplicationOtherAirline\bin\Release\netcoreapp2.1\ApplicationOtherAirline.pdb
+D:\EnViet\SourceAzure\ApplicationOtherAirline\obj\Release\netcoreapp2.1\ApplicationOtherAirline.AssemblyInfoInputs.cache
+D:\EnViet\SourceAzure\ApplicationOtherAirline\obj\Release\netcoreapp2.1\ApplicationOtherAirline.AssemblyInfo.cs
+D:\EnViet\SourceAzure\ApplicationOtherAirline\obj\Release\netcoreapp2.1\ApplicationOtherAirline.csproj.CoreCompileInputs.cache
+D:\EnViet\SourceAzure\ApplicationOtherAirline\obj\Release\netcoreapp2.1\ApplicationOtherAirline.dll
+D:\EnViet\SourceAzure\ApplicationOtherAirline\obj\Release\netcoreapp2.1\ApplicationOtherAirline.pdb
+D:\EnViet\SourceAzure\ApplicationOtherAirline\obj\Release\netcoreapp2.1\ApplicationOtherAirline.genruntimeconfig.cache
+D:\EnViet\SourceAzure\ApplicationOtherAirline\bin\Release\netcoreapp2.1\EasyInvoice.Client.dll
+D:\EnViet\SourceAzure\ApplicationOtherAirline\bin\Release\netcoreapp2.1\EasyInvoice.Json.dll
+D:\EnViet\SourceAzure\ApplicationOtherAirline\obj\Release\netcoreapp2.1\ApplicationOtherAirline.csproj.AssemblyReference.cache
+D:\EnViet\SourceAzure\ApplicationOtherAirline\obj\Release\netcoreapp2.1\ApplicationOtherAirline.GeneratedMSBuildEditorConfig.editorconfig
+D:\EnViet\SourceAzure\ApplicationOtherAirline\obj\Release\netcoreapp2.1\ApplicationOtherAirline.csproj.CopyComplete

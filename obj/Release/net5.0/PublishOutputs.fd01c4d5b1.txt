@@ -1,0 +1,13 @@
+D:\EnViet\SourceAzure\ApplicationOtherAirline\bin\Release\netcoreapp2.1\publish\ApplicationOtherAirline.exe
+D:\EnViet\SourceAzure\ApplicationOtherAirline\bin\Release\netcoreapp2.1\publish\ApplicationOtherAirline.dll
+D:\EnViet\SourceAzure\ApplicationOtherAirline\bin\Release\netcoreapp2.1\publish\ApplicationOtherAirline.deps.json
+D:\EnViet\SourceAzure\ApplicationOtherAirline\bin\Release\netcoreapp2.1\publish\ApplicationOtherAirline.runtimeconfig.json
+D:\EnViet\SourceAzure\ApplicationOtherAirline\bin\Release\netcoreapp2.1\publish\ApplicationOtherAirline.pdb
+D:\EnViet\SourceAzure\ApplicationOtherAirline\bin\Release\netcoreapp2.1\publish\Dapper.dll
+D:\EnViet\SourceAzure\ApplicationOtherAirline\bin\Release\netcoreapp2.1\publish\Newtonsoft.Json.dll
+D:\EnViet\SourceAzure\ApplicationOtherAirline\bin\Release\netcoreapp2.1\publish\System.Data.SqlClient.dll
+D:\EnViet\SourceAzure\ApplicationOtherAirline\bin\Release\netcoreapp2.1\publish\runtimes\win-arm64\native\sni.dll
+D:\EnViet\SourceAzure\ApplicationOtherAirline\bin\Release\netcoreapp2.1\publish\runtimes\win-x64\native\sni.dll
+D:\EnViet\SourceAzure\ApplicationOtherAirline\bin\Release\netcoreapp2.1\publish\runtimes\win-x86\native\sni.dll
+D:\EnViet\SourceAzure\ApplicationOtherAirline\bin\Release\netcoreapp2.1\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\EnViet\SourceAzure\ApplicationOtherAirline\bin\Release\netcoreapp2.1\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
